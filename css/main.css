@@ -1,0 +1,17 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.users, .requests{
+  list-style: none;
+}
+
+.users, .requests li{
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+footer{
+  margin-top: 2rem;
+}
